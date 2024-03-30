@@ -2,6 +2,7 @@
 独自制作のゲームです
 
 [作成したゲームのリンク](https://unityroom.com/games/itokon0001)
+[本ページのリンク](https://github.com/Ito-Koki/Games)
 <p>ゲームシーン例</p>
 
 ![画像名](StartScene.png)
